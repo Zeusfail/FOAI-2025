@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Local tooling
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project runtime outputs
+output/
+*.pt
+*.pth
+*.pkl
+
+# Local data (competition datasets/images)
+data/
+images/
+
+# Logs
+*.log
